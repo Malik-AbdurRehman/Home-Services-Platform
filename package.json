@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "@clerk/nextjs": "^6.28.1",
+    "mysql2": "^3.14.3",
     "next": "15.4.5",
+    "ngrok": "^5.0.0-beta.2",
     "react": "19.1.0",
     "react-dom": "19.1.0"
   },
